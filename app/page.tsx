@@ -1,7 +1,7 @@
 import React from "react";
 
 const HomePage = () => {
-  return <h1 className="pt-72 pb-80 bg-slate-500">MY DASHBOARD</h1>;
+  return <h1 className="h-screen pb-24 text-stone-300">MY DASHBOARD</h1>;
 };
 
 export default HomePage;
